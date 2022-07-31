@@ -38,7 +38,7 @@ login:
   password: pullagura
 token:
   jwtSecret: pUlLSecretKey
-  jwtExpirationMs: 1000
+  jwtExpirationMs: 86400000
 
 to:
   email: pullagura.lakshmidevi@heptagon.in
