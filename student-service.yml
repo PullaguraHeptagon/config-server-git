@@ -43,7 +43,7 @@ to:
   email: pullagura.lakshmidevi@heptagon.in
 
 otp:
-  subject: OTP Student-Service
+  subject: OTP StudentService
 
 jwt:
   enabled: true
