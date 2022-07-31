@@ -41,7 +41,7 @@ token:
   jwtExpirationMs: 86400000
 
 to:
-  email: pullagura.lakshmidevi@heptagon.in
+  email: lakshmidevi.pullagura@gmail.com
 
 otp:
   subject: OTP StudentService
