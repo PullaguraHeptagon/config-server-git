@@ -22,15 +22,15 @@ spring:
 
   mail:
     host: smtp.gmail.com
-      username: rajujwala2@gmail.com
-      password: Raju@np3
-      port: 587
-      properties:
-        mail:
-          smtp:
-            auth: true
-              starttls:
-                enable: true
+    username: rajujwala2@gmail.com
+    password: zjelovfohzpwopsa
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
 
 login:
   username: pullagura
